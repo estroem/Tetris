@@ -1,0 +1,4 @@
+Simple tetris game written in C#
+
+Compile with:
+csc Tetris.cs Screen.cs Piece.cs GUI.cs
